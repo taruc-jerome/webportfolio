@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #ffc922;
+}
+
+h1{
+	color: #6e024c;
+}
+
+.aboutme{
+	background-color: #b13a1a;
+}
+.h1aboutme{
+	color: whitesmoke;
+}
+
+.capimg{
+	border-radius: 50% 20% / 10% 40%;;
+}
+.aboutmeimg{
+	border-radius: 10px 100px / 120px;
+}
+.myphotoimg{
+	border-radius: 10% / 50%;
+}
+
+.bgyellow{
+	background-color: #ffc922;
+}
