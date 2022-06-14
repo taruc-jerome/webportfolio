@@ -24,7 +24,7 @@ h1{
 	border-radius: 50% 20% / 10% 40%;;
 }
 .aboutmeimg{
-	border-radius: 10px 100px / 120px;
+	border-radius: 10% 30% 50% 70%;;
 }
 .myphotoimg{
 	border-radius: 10% / 50%;
@@ -33,3 +33,5 @@ h1{
 .bgyellow{
 	background-color: #ffc922;
 }
+
+
