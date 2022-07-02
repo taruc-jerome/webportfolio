@@ -6,7 +6,7 @@
 
 body{
 	font-family: 'Open Sans', sans-serif;
-	background-color: #ffc922;
+	background-color: #fafafa;
 }
 
 h1{
@@ -34,4 +34,14 @@ h1{
 	background-color: #ffc922;
 }
 
+.bgtrans{
+	background-color: #b13a1a;
+}
 
+.nav{
+	color: #6e024c
+}
+
+.text-purple{
+	color: #6e024c
+}
